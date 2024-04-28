@@ -36,7 +36,7 @@ Table of Contents
 
 # Original Component
 
-[Original Component](Contra%20-%20Component%20Randomizer%20a112dc9cce4749b38e3c5d48aacecfb0/Original%20Component%20ca891a003a454d14aa5bb485589f932b.md)
+[Original Component](Variations/Original%20Component%20ca891a003a454d14aa5bb485589f932b.md)
 
 It's designed for use in environments that support custom React components, such as Framer, to enhance user interfaces with dynamic and interactive elements governed by physics laws. Here's a breakdown of what this component does:
 
@@ -68,7 +68,7 @@ This component is particularly useful for creating interactive, physics-driven e
 
 # Variation: Center Gather (Working)
 
-[Gather Center - Physics Component Variation (Working)](Contra%20-%20Component%20Randomizer%20a112dc9cce4749b38e3c5d48aacecfb0/Gather%20Center%20-%20Physics%20Component%20Variation%20(Worki%209551de63afd84833b53685d891e5e480.md)
+[Gather Center - Physics Component Variation (Working)](Variations/Gather%20Center%20-%20Physics%20Component%20Variation%20(Worki%209551de63afd84833b53685d891e5e480.md)
 
 This snippet introduces several key differences from the original Physics component, primarily focusing on the physics simulation behavior and component lifecycle management:
 
@@ -99,13 +99,13 @@ These modifications shift the focus from a general physics simulation framework,
 
 ## VARIATION DEMO
 
-[CentralGather.mp4](Contra%20-%20Component%20Randomizer%20a112dc9cce4749b38e3c5d48aacecfb0/CentralGather.mp4)
+[CentralGather.mp4](Variations/CentralGather.mp4)
 
 ---
 
 # Variation 2: Randomizer (Debugging)
 
-[Randomizer v3](Contra%20-%20Component%20Randomizer%20a112dc9cce4749b38e3c5d48aacecfb0/Randomizer%20v3%204ad3d342d6f04752a59b5ca8f45f186c.md)
+[Randomizer v3](Variations/Randomizer%20v3%204ad3d342d6f04752a59b5ca8f45f186c.md)
 
 This snippet introduces several modifications and additions to the original Physics component, enhancing its functionality and interactivity in a web environment. Here's a comparison to the original highlighting the key differences:
 
@@ -150,7 +150,7 @@ These changes collectively enhance the component's interactivity, visual appeal,
 
 ### ~~Current State Demo~~
 
-[RandomizeV7.MP4.mov](Contra%20-%20Component%20Randomizer%20a112dc9cce4749b38e3c5d48aacecfb0/RandomizeV7.MP4.mov)
+[RandomizeV7.MP4.mov](Variations/RandomizeV7.MP4.mov)
 
 ---
 
@@ -161,7 +161,7 @@ These changes collectively enhance the component's interactivity, visual appeal,
 
 # Variation 3: Randomizer (Different Method)
 
-[Randomizer v4 (unstable)](Contra%20-%20Component%20Randomizer%20a112dc9cce4749b38e3c5d48aacecfb0/Randomizer%20v4%20(unstable)%20f8f8fd45f06c42519f15f597dfa025bb.md)
+[Randomizer v4 (unstable)](Variations/Randomizer%20v4%20(unstable)%20f8f8fd45f06c42519f15f597dfa025bb.md)
 
 ## ~~What’s New~~
 
@@ -176,17 +176,17 @@ These changes collectively enhance the component's interactivity, visual appeal,
 
 ### ~~Current Randomizer (Unstable)~~
 
-[Updated Randomizer](Contra%20-%20Component%20Randomizer%20a112dc9cce4749b38e3c5d48aacecfb0/Updated%20Randomizer%203a6e1b4fa92e4d5897b3fec079c5720e.md)
+[Updated Randomizer](Variations/Updated%20Randomizer%203a6e1b4fa92e4d5897b3fec079c5720e.md)
 
-[GatherRandom.mp4](Contra%20-%20Component%20Randomizer%20a112dc9cce4749b38e3c5d48aacecfb0/GatherRandom.mp4)
+[GatherRandom.mp4](Variations/GatherRandom.mp4)
 
 ~~Trying a different method.~~
 
 # Randomize Physics Components
 
-[Working Randomizer](Contra%20-%20Component%20Randomizer%20a112dc9cce4749b38e3c5d48aacecfb0/Working%20Randomizer%20fba3b2fe323f4d1787e86c6060a6f085.md)
+[Working Randomizer](Variations/Working%20Randomizer%20fba3b2fe323f4d1787e86c6060a6f085.md)
 
-[Working Randomizer w Center Gather Effect](Contra%20-%20Component%20Randomizer%20a112dc9cce4749b38e3c5d48aacecfb0/Working%20Randomizer%20w%20Center%20Gather%20Effect%207890ecb526d441b6bc973d5ea315b4dd.md)
+[Working Randomizer w Center Gather Effect](Variations/Working%20Randomizer%20w%20Center%20Gather%20Effect%207890ecb526d441b6bc973d5ea315b4dd.md)
 
 ## Overview
 
@@ -225,11 +225,11 @@ The use of React's `useState` hook for managing `childSet` allows for dynamic up
 
 ## Working Randomizer Demo
 
-[RandomizerComponent.mp4](Contra%20-%20Component%20Randomizer%20a112dc9cce4749b38e3c5d48aacecfb0/RandomizerComponent.mp4)
+[RandomizerComponent.mp4](Variations/RandomizerComponent.mp4)
 
 ## Working Randomizer Demo (Center Gather Effect)
 
-[CenterGatherRandom.mp4](Contra%20-%20Component%20Randomizer%20a112dc9cce4749b38e3c5d48aacecfb0/CenterGatherRandom.mp4)
+[CenterGatherRandom.mp4](Variations/CenterGatherRandom.mp4)
 
 ## Conclusion
 
