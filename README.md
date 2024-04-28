@@ -68,7 +68,7 @@ This component is particularly useful for creating interactive, physics-driven e
 
 # Variation: Center Gather (Working)
 
-[Gather Center - Physics Component Variation (Working)](Variations/Gather%20Center%20-%20Physics%20Component%20Variation%20(Worki%209551de63afd84833b53685d891e5e480.md)
+[Gather Center - Physics Component Variation (Working)](Variations/Gather%20Center%20-%20Physics%20Component%20Variation%20Worki%209551de63afd84833b53685d891e5e480.md)
 
 This snippet introduces several key differences from the original Physics component, primarily focusing on the physics simulation behavior and component lifecycle management:
 
